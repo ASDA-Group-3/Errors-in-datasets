@@ -1,0 +1,40 @@
+Halloween Candy Dataset
+
+competitors, chocolate, fruity, caramel, peanutyalmondy, nougat, crispedricewafer, hard, bar,
+Air Heads, 0, 1, 0, 0, 0, 0, 0, 0
+Almond Joy, 1, 0, 9, 1, 0, 0, 0, 1
+Baby Ruth, 1, 0, 1, 1, 1, 0, 0, 1
+0, Candy Corn, 0, 0, 0, 0, 0, 0, 0
+Dots, 0, 1, 0, 0, 0, 0, 0, 0
+Haribo Gold Bears, 0, 1, 0, 0, 0, 0, 0, 0
+Haribo Happy Cola, 0, 0, 0, 0, 0, 0, 0, 0
+Harribo Sour Bears, 0, 1, 0, 0, 0, 0, 0, 0
+Haribo Twin Snakes, 0, 1, 0, 0, 0, 0, 0, 0
+Hersheys Kisses, 1, 0, 0, 0, 0, 0, 0, 0
+Hersheys Milk Chocolate, 1, 0, 0, 0, 0, 0, 0, 1
+Kinder Chocolate, 1, 0, 0, 0, 0, 0, 0, 1
+Kit Kat, 1, 0, 0, 0, 0, 1, 0, 1
+Laffy Taffy,  0, 1, 0, 0, 0, 0, 0, 0
+Liefsavers, 0, 1, 0, 0, 0, 0, 1, 0
+M&Ms, 1, 0, 0, 0, 1, 0, 0, 0
+Peanutbutter M&Ms, 1, 0, 0, 1, 1, 0, 0, 0
+Mars bar, 1, 0, 1, 0, 1, 1, 0, 1
+Milky Way, 1, 0, 1, 0, 1, 0, 0, 1
+Nerds, 0, 1, 0, 0, 0, 0, 1, 0
+Nestle Butterfingers, 1, 0, 0, 1, 0, 0, 0, 1
+Pop Rocks, 0, 1, 0, 0, , 0, 1, 0
+Reeses Peanut Butter Cup, 1, 0, 0, 1, 0, 0, 0, 0
+Reeses Pieces, one, 0, 0, 1, 0, 0, 0, 0
+Rolo, 1, 0, 1, 0, 0, 0, 0, 0
+Skittles, 0, 1, 0, 0, 0, 0, 0, 0
+Nestle Smarties, 1, 0, 0, 0, 0, 0, 0, 0
+Snickers, 1, 0, 1, 1, 1, 0, 0, 1
+Sour Patch Kids, 0, 1, 0, 0, 0, 0, 0, 0
+Starburst, 0, 1, 0, 0, 0, 00, 0, 0  
+Swedish Fish, 0, 1, 0, 0, 0, 0, 0, 0 
+Twix, 1, 0, 1, 0, 0, 1, 0, 1
+Twizzlers, 0, 1 0, 0, 0 0, 0, 0 
+Warheads, O, 1, 0, 0, 0, 0, 1, 0 
+Werthers Origonal Caramel, 0, 0, 1, 0, 0, 0, 1, 0 
+Whoppers, 1, 0, 0, 0, 0, 1, 0, 0
+Milky Way, 1, 0, 1, 0, 1, 0, 0, 1
